@@ -100,6 +100,9 @@ _ReSharper*/
 # JustCode is a .NET coding add-in
 .JustCode
 
+# GhostDoc is a .NET coding add-in
+*.sln.GhostDoc.user.dic
+
 # TeamCity is a build add-in
 _TeamCity*
 
